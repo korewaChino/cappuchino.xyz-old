@@ -22,6 +22,7 @@
         </h1>
         <p class="mb-4">
           Struggling student by day, 10x developer by night.
+          Languages: Python, Vue, Rust and C.
         </p>
         <!-- Social links -->
         <div class="flex justify-center">
