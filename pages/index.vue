@@ -22,7 +22,12 @@
         </h1>
         <p class="mb-4">
           Struggling student by day, 10x developer by night.
+          <br>
           Languages: Python, Vue, Rust and C.
+          <br>
+          <br>
+          <a class="text-green-400" href="portfolio">Portfolio</a>
+
         </p>
         <!-- Social links -->
         <div class="flex justify-center">
