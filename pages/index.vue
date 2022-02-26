@@ -27,6 +27,9 @@
           <br>
           <br>
           <a class="text-green-400" href="portfolio">Portfolio</a>
+          <br>
+          <a class="text-green-400" href="https://en.pronouns.page/@korewachino">Pronouns</a>
+
 
         </p>
         <!-- Social links -->
