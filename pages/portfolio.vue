@@ -26,40 +26,33 @@
         </article> -->
 
         I go on the internet as Cappy Ishihara.
-        <br/>
-        I'm a high school student studying an English major at the Srinakharinwirot University
-        (Demonstration School).
-        <br/>
+        <br />
+        I'm a high school student studying an English major at the
+        Srinakharinwirot University (Demonstration School).
+        <br />
         For privacy reasons, I will not be sharing my real name.
-        <br/>
-        I speak fluent English and Thai, and I am a native Thai speaker. I have experience in the following areas:
+        <br />
+        I speak fluent English and Thai, and I am a native Thai speaker. I have
+        experience in the following areas:
         <!-- list -->
         <ul class="list-disc ml-8">
-          <li>
-            Software development
-          </li>
-          <li>
-            Operating systems
-          </li>
-          <li>
-            Audio engineering
-          </li>
-          <li>
-            Package maintenance
-          </li>
+          <li>Software development</li>
+          <li>Operating systems</li>
+          <li>Audio engineering</li>
+          <li>Package maintenance</li>
         </ul>
-        I am the founder of the Ultramarine Linux project, and I used to be the project maintainer for
-        it.
-        <br/>
+        I am the founder of the Ultramarine Linux project, and I used to be the
+        project maintainer for it.
+        <br />
         I also work on the Virtual Puppet Project (see below).
-        <br/>
-        I'm
-        interested in the software development community, and my projects are
-        open source.
-        <br/>
-        I'm also non-binary and pansexual! If that discourages you from hiring me, then please don't hire me.
-        <br/>
-        <br/>
+        <br />
+        I'm interested in the software development community, and my projects
+        are open source.
+        <br />
+        I'm also non-binary and pansexual! If that discourages you from hiring
+        me, then please don't hire me.
+        <br />
+        <br />
 
         <h2 class="text-xl mb-4">
           List of projects and stuff I've done that are worth noting.

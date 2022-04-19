@@ -15,4 +15,3 @@ I have experience in the following areas:
 I am the founder of the Ultramarine Linux project, and I used to be the project maintainer for it. I also work on the Virtual Puppet Project (see below).
 
 I'm interested in the software development community, and my projects are open source.
-

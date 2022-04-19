@@ -52,77 +52,33 @@
         <!-- Social links -->
         <div class="flex justify-center text-gray-600 text-3xl">
           <a
-            class="
-              fab
-              fa-twitter
-              dark:text-gray-200
-              hover:text-blue-600
-              dark:hover:text-blue-200
-              mx-1
-            "
+            class="fab fa-twitter dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-200 mx-1"
             href="https://twitter.com/CappyIshihara"
           />
           <a
-            class="
-              fab
-              fa-github
-              dark:text-gray-200
-              hover:text-blue-600
-              dark:hover:text-blue-200
-              mx-1
-            "
+            class="fab fa-github dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-200 mx-1"
             href="https://github.com/korewaChino"
           />
           <a
-            class="
-              fab
-              fa-gitlab
-              dark:text-gray-200
-              hover:text-blue-600
-              dark:hover:text-blue-200
-              mx-1
-            "
+            class="fab fa-gitlab dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-200 mx-1"
             href="https://gitlab.com/korewaChino"
           />
           <a
-            class="
-              fab
-              fa-soundcloud
-              dark:text-gray-200
-              hover:text-blue-600
-              dark:hover:text-blue-200
-              mx-1
-            "
+            class="fab fa-soundcloud dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-200 mx-1"
             href="https://soundcloud.com/c4ppucc1n0"
           />
           <!-- email -->
           <a
-            class="
-              fa
-              fa-envelope
-              dark:text-gray-200
-              hover:text-blue-600
-              dark:hover:text-blue-200
-              mx-1
-            "
+            class="fa fa-envelope dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-200 mx-1"
             href="mailto:cappy@cappuchino.xyz"
           />
           <!--youtube-->
           <a
-            class="
-              fab
-              fa-youtube
-              dark:text-gray-200
-              hover:text-blue-600
-              dark:hover:text-blue-200
-              mx-1
-            "
+            class="fab fa-youtube dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-200 mx-1"
             href="https://www.youtube.com/c/cupochinomusic"
           />
         </div>
-        <div>
-
-        </div>
+        <div></div>
       </div>
     </div>
   </div>
