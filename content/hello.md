@@ -1,18 +1,18 @@
----
-title: Getting started
-description: 'Empower your NuxtJS application with @nuxt/content module: write in a content/ directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS.'
----
+I go on the internet as Cappy Ishihara. I'm a high school student studying an English major at the Srinakharinwirot University (Demonstration School).
 
-Empower your NuxtJS application with `@nuxtjs/content` module: write in a `content/` directory and fetch your Markdown, JSON, YAML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
+For privacy reasons, I will not be sharing my real name.
 
-## Writing content
+I speak fluent English and Thai, and I am a native Thai speaker.
 
-Learn how to write your `content/`, supporting Markdown, YAML, CSV and JSON: https://content.nuxtjs.org/writing.
+I have experience in the following areas:
 
-## Fetching content
+-Software development
 
-Learn how to fetch your content with `$content`: https://content.nuxtjs.org/fetching.
+-Music production
 
-## Displaying content
+-Package maintainance
 
-Learn how to display your Markdown content with the `<nuxt-content>` component directly in your template: https://content.nuxtjs.org/displaying.
+I am the founder of the Ultramarine Linux project, and I used to be the project maintainer for it. I also work on the Virtual Puppet Project (see below).
+
+I'm interested in the software development community, and my projects are open source.
+
