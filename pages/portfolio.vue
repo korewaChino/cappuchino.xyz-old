@@ -2,8 +2,8 @@
   <div
     class="flex h-screen"
     style="
-      background-color: #2b3e58;
-      background-image: url(/background.jpg);
+
+      color: #fff;
       /* blur the background image ONLY */
       background-blend-mode: multiply;
 
@@ -17,47 +17,51 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
-    <div class="shadow-2xl m-auto">
+    <div class="m-auto grid">
       <!-- make a box -->
-      <div class="bg-gray-900 text-gray-50 shadow-xl rounded-2xl p-8">
-        <h1 class="text-3xl font-bold mb-4">Portfolio</h1>
-        <!-- <article>
-          <nuxt-content :document="page" />
-        </article> -->
-
-        I go on the internet as Cappy Ishihara.
-        <br />
-        I'm a high school student studying an English major at the
-        Srinakharinwirot University (Demonstration School).
-        <br />
-        For privacy reasons, I will not be sharing my real name.
-        <br />
-        I speak fluent English and Thai, and I am a native Thai speaker. I have
-        experience in the following areas:
-        <!-- list -->
+      <div class="bg-gray-900 text-gray-50 shadow-xl rounded-2xl p-16 text-5xl">
+        Cappy Ishihara <p class="text-xl">(Real name Redacted)</p>
+      </div>
+      <div class="bg-gray-900 text-gray-50 shadow-xl rounded-2xl p-7 m-8">
+        <h1 class="text-3xl">
+          Technologies and Languages
+        </h1>
+        <br>
+        Programming Languages: Python, Vue, Rust, C, C++, JavaScript
+        <br>
+        Frameworks: Flask, Nuxt.js, TailwindCSS, Bootstrap, Bulma
+        <br>
+        Tools: Git, Docker, ZSH, Bash, Selenium, RPM, Ansible
+        <br>
+        Other: GCP, Heroku, GitLab CI
+      </div>
+      <div class="bg-gray-900 text-gray-50 shadow-xl rounded-2xl p-7 m-5">
+        <h1 class="text-3xl">
+          Education
+        </h1>
+        English Major, Srinakharinwirot University Demonstration School (2021-2023)
+      </div>
+      <div class="bg-gray-900 text-gray-50 shadow-xl rounded-2xl p-7 m-5">
+        <h1 class="text-3xl">
+          Experience
+        </h1>
+        <br/>
         <ul class="list-disc ml-8">
-          <li>Software development</li>
-          <li>Operating systems</li>
-          <li>Audio engineering</li>
-          <li>Package maintenance</li>
+          <li>
+            2021-2022 - Ultramarine Linux - Founder, Core Maintainer
+            <ul class="list-disc ml-8">
+              <li>Maintained the core RPM packages for Ultramarine Linux</li>
+              <li>DevOps Services using Koji and GitLab CI</li>
+              <li>Open-source coordination</li>
+            </ul>
+          </li>
         </ul>
-        I am the founder of the Ultramarine Linux project, and I used to be the
-        project maintainer for it.
-        <br />
-        I also work on the Virtual Puppet Project (see below).
-        <br />
-        I'm interested in the software development community, and my projects
-        are open source.
-        <br />
-        I'm also non-binary and pansexual! If that discourages you from hiring
-        me, then please don't hire me.
-        <br />
-        <br />
-
-        <h2 class="text-xl mb-4">
-          List of projects and stuff I've done that are worth noting.
-        </h2>
-        <!-- make a list -->
+      </div>
+      <div class="bg-gray-900 text-gray-50 shadow-xl rounded-2xl p-7 m-5">
+        <h1 class="text-3xl">
+          Projects
+        </h1>
+        <br/>
         <ul class="list-disc ml-8">
           <li class="mb-4">
             <a class="text-green-400" href="https://ultramarine-linux.org">
